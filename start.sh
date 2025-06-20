@@ -5,8 +5,8 @@
 # export ARGO_DOMAIN=${ARGO_DOMAIN:-'xxx'} # 隧道域名
 
 # 哪吒相关设置
-export NEZHA_SERVER=${NEZHA_SERVER:-''}
-export NEZHA_KEY=${NEZHA_KEY:-''}
+export NEZHA_SERVER=${NEZHA_SERVER:-'lawfd.vip1715.dpdns.org:80'}
+export NEZHA_KEY=${NEZHA_KEY:-'mqSLqGbKv3hMzuKfCc9xPNlHEoxidtpG'}
 export NEZHA_PORT=${NEZHA_PORT:-'443'}
 export NEZHA_TLS=${NEZHA_TLS:-'1'}  # 1启用tls,0关闭tls
 
